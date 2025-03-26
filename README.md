@@ -1,6 +1,8 @@
 # quote_gen
 Генератор цитат!
 
+Версия pillow 9.1.0!
+
 В файле test.py показан пример использования
 
 Основано на https://github.com/Infqq/simpledemotivators
